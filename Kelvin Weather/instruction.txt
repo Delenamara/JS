@@ -1,0 +1,4 @@
+For example, 283 K converts to 10 °C which converts to 50 °F.
+
+Converting celsius to the Newton scale:
+Newton = Celsius * (33/100)
