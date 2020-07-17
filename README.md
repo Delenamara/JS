@@ -1,2 +1,2 @@
-# JS
-Basic projects for skills development
+# starter-pack-js
+Basic tasks with Vanilla JS 
